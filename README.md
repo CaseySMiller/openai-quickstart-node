@@ -27,11 +27,11 @@ This is an example pet name generator app used in the OpenAI API [quickstart tut
 
    On Linux systems: 
    ```bash
-   $ cp .env.example .env
+   $ cp .env.local.example .env.local
    ```
    On Windows:
    ```powershell
-   $ copy .env.example .env
+   $ copy .env.local.example .env.local
    ```
 6. Add your [API key](https://platform.openai.com/account/api-keys) to the newly created `.env` file
 
